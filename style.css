@@ -18,8 +18,9 @@ html, body {
 .section1 {
     min-height: 44rem;
     /* max-height: 80vh; */
-    background: url("https://files.tecnoblog.net/wp-content/uploads/2018/12/cartoes-netflix.jpg");
+    background: url("./assets/netflix-background-image.jpg");
     position: relative;
+    background-size: cover;
 
 }
 
